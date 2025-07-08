@@ -708,7 +708,7 @@ function App() {
       </main>
 
       <footer className="footer">
-        <p>© 2024 流光拾语 - 在流光中拾起你的心语片段</p>
+        <p>© 2021 流光拾语 - 在流光中拾起你的心语片段</p>
       </footer>
 
       {notification.show && (
